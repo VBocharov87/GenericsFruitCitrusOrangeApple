@@ -22,6 +22,7 @@ public class MyClass {
         List<Number> nums = new ArrayList<Number>();
         List<? super Integer> ints = nums;
 
+        System.out.println("Test Git");
     }
 }
 
